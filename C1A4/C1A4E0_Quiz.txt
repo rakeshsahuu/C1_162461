@@ -1,0 +1,14 @@
+RAKESH KUMAR SAHU and U09339356
+rakesh.sahuu@seagate.com
+CSE40475 : C/C++ ProgI:Fund Prog Concepts
+162461 and Ray Mitchell
+02/08/2022
+C1A4E0_Quiz.txt
+Below are quiz answers
+
+1. A
+2. A
+3. B
+4. E
+5. D
+6. A
